@@ -1,0 +1,2 @@
+# Ping
+Hanya tes ping
