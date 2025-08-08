@@ -1,0 +1,55 @@
+# Google
+https://www.gstatic.com/generate_204
+https://clients3.google.com/generate_204
+https://www.google.com/favicon.ico
+https://www.google.com/generate_204
+https://play.google.com/favicon.ico
+
+# Cloudflare
+https://1.1.1.1/cdn-cgi/trace
+https://cloudflare.com/cdn-cgi/trace
+
+# Microsoft
+http://www.msftconnecttest.com/connecttest.txt
+http://www.msftncsi.com/ncsi.txt
+https://www.bing.com/favicon.ico
+https://edge.microsoft.com/favicon.ico
+
+# CDN / Speed Test
+https://speed.cloudflare.com/__down
+https://speed.hetzner.de/1MB.bin
+https://speed.hetzner.de/10MB.bin
+https://speedtest.tele2.net/1MB.zip
+https://speedtest.tele2.net/10MB.zip
+https://cachefly.cachefly.net/10mb.test
+https://mirror.sg.gs/100MB.bin
+
+# IP Check
+https://icanhazip.com
+https://api.ipify.org
+https://ifconfig.co/ip
+https://checkip.amazonaws.com
+
+# Akamai / CDN Global
+https://akamaicdn.com/favicon.ico
+https://a248.e.akamai.net/favicon.ico
+
+# AWS / Amazon
+https://aws.amazon.com/favicon.ico
+https://d1.awsstatic.com/favicon.ico
+
+# GitHub / Dev
+https://github.com/favicon.ico
+https://raw.githubusercontent.com/favicon.ico
+https://gitlab.com/favicon.ico
+
+# Apple
+https://developer.apple.com/favicon.ico
+https://appldnld.apple.com/favicon.ico
+
+# Linux / Open Source Mirrors
+https://releases.ubuntu.com/README
+https://ftp.debian.org/debian/README
+https://mirror.centos.org/centos/README
+https://download.opensuse.org/README
+https://archlinux.org/favicon.ico
